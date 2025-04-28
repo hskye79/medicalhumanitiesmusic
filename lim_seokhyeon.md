@@ -1,0 +1,13 @@
+---
+Year: 2016
+Genre: Animated movies
+Creator: Naoko Yamada
+Disability: hearing impairment, deaf
+Music: Lit
+Composer: Kensuke Ushio
+Type: instrumental
+---
+
+# A Silent of Voice
+
+The piece "Lit," featured in A Silent Voice, sonically embodies the protagonist's experience of an unstable world through soft and repetitive piano melodies. Rather than presenting a distinct rhythm or melody, the piece delicately arranges fragile and cautious tones to convey the isolation and disconnection felt in a soundless world. Notably, a characteristic feature observed throughout the A Silent Voice original soundtrack is the intentional inclusion of ambient noises. Upon close listening, one can hear sounds such as fingernails brushing against piano keys and mechanical noises from the instrument itself. These elements were deliberately incorporated by Kensuke Ushio, inspired by the characteristics of hearing aids. Since hearing aids amplify unnecessary ambient sounds along with voices, users often perceive sounds mixed with various kinds of noise. By intentionally embedding these imperfections into the music, Ushio allows listeners to experience sound from the perspective of a person with hearing impairment. This musical approach helps the audience directly empathize with the emotional isolation caused by hearing loss and reinterprets disability not merely as a physical condition but as a profound emotional experience.
