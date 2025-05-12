@@ -3,6 +3,7 @@ Year: 2024
 Genre: Series
 Creator: Park Sang Young
 Disease: HIV
+ICD: 1C62
 Music: Eroctic Joke
 Singer/Composer: SURAN 
 Type: Pop/R&B
