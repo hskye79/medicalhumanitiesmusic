@@ -3,6 +3,7 @@ Year: 2014
 Genre: Drama
 Creator: Noh Hee-kyung(노희경)
 Disease: Schizophrenia
+ICD: 6A20
 Music: It’s Okay, That’s Love(괜찮아, 사랑이야)
 Singer: Davichi
 Type: pop
