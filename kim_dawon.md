@@ -3,6 +3,7 @@ Year: 2022
 Genre: TV drama
 Creator: 유인식
 Disability: ASD
+ICD: 6A02.0
 Music: The whale
 Composer: 박세준
 Type: Pop
