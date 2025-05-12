@@ -2,7 +2,8 @@
 Year: 2024
 Genre: Drama
 Creator: Back sunwoo
-Disability: Depression/Burnout
+Disability: Dysthymic disorder
+Icd: 6A72
 Music: HYNN-Not Alone
 Composer: Kim junseok
 Type: Ballad
