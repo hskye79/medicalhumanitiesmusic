@@ -3,6 +3,7 @@ Year: 2014
 Genre: Drama
 Creator: Noh Heekyung
 Diseases: Schizophrenia
+ICD: 6A20
 Music: It's Okay, That's Love
 Singer: Davichi
 Type: Drama OST, Ballade
