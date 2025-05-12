@@ -3,6 +3,7 @@ Year: 2005
 Genre: Film
 Creator: Jeong Yoon-cheol
 Disability: Autism
+ICD: 6A02
 Music: 달려라 초원
 Composer: Kim Joon-seong
 Type: OST
