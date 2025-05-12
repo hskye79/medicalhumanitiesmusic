@@ -3,6 +3,7 @@ Year: 2005
 Genre: film
 Creator: Jung Yoon-cheol
 Disability: autism spectrum disorder (ASD)
+ICD: 6A02.Z
 Music: Ave Maria
 Composer: Franz Schubert
 Type: classical
