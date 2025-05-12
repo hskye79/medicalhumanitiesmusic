@@ -2,7 +2,8 @@
 Year: 2017
 Genre: Film
 Creator: Michael Gracey
-Disability: Dwarfism,Gigantism,Albinism,Conjoined twins
+Disability: Dwarfism,Gigantism,Albinism
+ICD: 5B11,5A60.0,EC23.20
 Music: This Is Me
 Composer : Benj Pasek,Justin Paul
 Type: Musical theatre
