@@ -2,7 +2,8 @@
 Year: 2018
 Genre: Film
 Creator: Sung-hyun Choi
-Disability: Savent Syndrome
+Disability: Savant Syndrome
+ICD: LD27.0Y
 Music: Hungarian Dance No.5
 Composer: Johannes Brahms
 Type: Classical 
