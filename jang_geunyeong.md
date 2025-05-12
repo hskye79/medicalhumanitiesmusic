@@ -4,6 +4,7 @@ Genre: Opera
 Creator: Alban Berg
 Birth and death date: 1885/02/09-1935/12/24
 Disease: Mental Illniss
+ICD: SD8Z
 Periodic Background: After World War 1
 Type: Classic
 ---
