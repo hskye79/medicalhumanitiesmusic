@@ -2,7 +2,8 @@
 Year: 2017
 Genre: Drama
 Creator: Stephen chbosky
-Barrier: Facial deformation
+Disease: Facial deformation
+ICD: FC00.Y
 Music: Ordinary Kid
 Composer: Marcelo Zarvos
 Type: Orchestration
