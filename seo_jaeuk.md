@@ -2,7 +2,8 @@
 Year: 2001
 Genre: Film
 Creator: Ron Howard
-Disease: Schizopherenia
+Disease: Schizophrenia
+ICD: 6A20
 Music: The car chase
 Composer: James Horner
 Type: Classical
