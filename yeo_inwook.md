@@ -3,6 +3,7 @@ Year: 2021
 Genre: TV Drama
 Creator: Hwan Min Oh
 Disease: Alzheimer's disease
+ICD: 8A20
 Music: My Day
 Composer: Min Kim
 Type: Ballard, Drama
