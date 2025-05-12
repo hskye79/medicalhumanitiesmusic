@@ -3,6 +3,7 @@ Year: 2021
 Genre: SF/Musical
 Creator: Mamoru Hosoda
 Disorder: social anxiety disorder
+ICD: 6B04
 Music: A Million Miles Away
 Singer: Belle
 Type: Balad
