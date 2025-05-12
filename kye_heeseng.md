@@ -3,6 +3,7 @@ Year: 1993
 Genre: Film
 Creator: Jonathan Demme
 Disease: AIDS
+ICD: 8A45.0Y
 Music: La mamma morta
 Composer: Umberto Giordano
 Type: Classical
