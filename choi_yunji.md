@@ -3,6 +3,7 @@ Year: 2017
 Genre: Film
 Creator: Tsukikawa Sho
 Disease: pancreatic cancer
+ICD: C25
 Music: Himawari
 Singer: Mr.Children
 Type: band music
