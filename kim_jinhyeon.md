@@ -3,6 +3,7 @@ Year : 1992
 Genre : Movie
 Creater : Luis Puenzo(Based on Albert Camus)
 Disease : Plague
+ICD: 1B93
 Music : Psalmus Ode
 Composer : Vangelis
 Type : Electronic Orchestral
