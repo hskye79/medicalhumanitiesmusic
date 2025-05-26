@@ -2,7 +2,8 @@
 Year: 2018
 Genre: Film
 Creator: 최성현
-Disability: Savant Syndrome
+Disability: Savant Syndrome, Developmental Disability
+ICD: 6A03
 Music: Piano Concerto No.1 Bb minor Op.23
 Composer: Tchaikovsky
 Type: Classical
