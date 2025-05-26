@@ -3,6 +3,7 @@ Year: 2022
 Genre: TV Drama 
 Creator: Yoo In-sik
 Disability: Autism Spectrum Disorder_ASD
+ICD: 6A02.0
 Music: Beyond My Dream
 Singer: Sunwoo Jung-a
 Type: folk music 
