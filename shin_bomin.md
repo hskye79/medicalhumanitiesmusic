@@ -3,6 +3,7 @@ Year: 2012
 Genre: Film
 Creator: David O.Russell
 Disease: Bipolar Disoder
+ICD: 6A60
 Music: My Cherie Amour
 Singer: Stevie Wonder
 Type: Pop

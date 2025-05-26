@@ -2,7 +2,8 @@
 Year: 2002
 Genre: Film
 Creator: Lee Jae-Jin
-Disability: brain lesion disability
+Disability: Dyskinetic cerebral palsy
+ICD: 8D21
 Music: If I
 Composer: Ahn Chi-wan
 Type: Folk ballad

@@ -3,6 +3,7 @@ Year: 2002
 Genre: film
 Creator: Ron Howard
 Disease: Schizophrenia
+ICD: 6A20
 Music: “A Beautiful Mind” Original Soundtrack
 Composer: James Horner
 Type: Classical

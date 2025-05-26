@@ -3,6 +3,7 @@ Year: 2014
 Genre: Film
 Creator: James Marsh
 Disease: ALS ( Amyotrophic Lateral Sclerosis )
+ICD: 8B60.0
 Music: The Theory of Everything
 Composer: Jóhann Jóhannsson
 Type: Classical

@@ -2,7 +2,8 @@
 Year: 2016
 Genre: Film
 Creater: Sukyung Kwon
-Disability: Blindness
+Disease: Blindness
+ICD: 9D90.6
 Music: Oh! Brother
 Composer: Inyoung Park
 Type: Orchestra

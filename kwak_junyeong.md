@@ -3,6 +3,7 @@ Year: 2018
 Genre: Film
 Creater: Bryan Singer
 Disease: AIDS
+ICD: 8A45.0Y/1C62.Z
 Music: Bohemian Rhapsody
 Songwriter(Producer): Freddie Mercury(Queen)
 Type: Progressive/Art Rock

@@ -3,6 +3,7 @@ year: early 19th century
 Genre: korean traditional sounds, 
 Creator: Song_manjae
 Disability: blind
+ICD: 9D90.6
 Music: Sim Cheong's Milk- Begging Journey
 singer: Park_dongjin
 Type: pansori

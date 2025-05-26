@@ -3,6 +3,7 @@ Year: 2002
 Genre: Film
 Creator: Ron Howard
 Disease: schizophrenia
+ICD: 6A20
 Music: Piano Sonata No.11 K.331 1st
 Composer: Mozart
 Type: Classical

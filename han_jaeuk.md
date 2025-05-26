@@ -2,7 +2,8 @@
 Year: 2022
 Genre: Novel
 Creator: Sara Nović
-Disability: Deaf
+Disability: Deafness
+ICD: AB52
 Music: Fictional music
 Composer: Fictional characters
 Type: Punk

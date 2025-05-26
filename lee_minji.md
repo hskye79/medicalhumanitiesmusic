@@ -3,6 +3,7 @@ Year: 2014
 Genre: Film
 Creator: Josh Boone
 Disease: Thyroid cancer, Osteosarcoma
+ICD: 2D10.1, 2B51
 Music: All of the Stars
 Singer: Ed Sheeran
 Type: Pop

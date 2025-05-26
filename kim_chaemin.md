@@ -3,6 +3,7 @@ Year: 2017
 Genre: Film
 Creater: Yamada Naoko
 Disease: Deaf
+ICD: AB56
 Music: 恋をしたのは
 Composer: GODA
 Type: J-pop

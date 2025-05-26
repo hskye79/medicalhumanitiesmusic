@@ -3,6 +3,7 @@ Year: 2005
 Genre: Film
 Creator: Jeong Yoon-cheol
 Disability: Autistic Disorder
+ICD: 6A02.1
 Music: Run Cho-won
 Composer: Kim Jun-seong
 Type: Classical

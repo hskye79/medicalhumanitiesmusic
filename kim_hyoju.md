@@ -3,6 +3,7 @@ Year: 1998
 Genre: Musical
 Creator: Luc Plamondon
 Disability: Scoliosis, Kyphosis
+ICD: FA70.1, FA70.0
 Music: Dieu que le monde est injuste
 Composer: Ricardo Cocciante
 Type: Musical Music
