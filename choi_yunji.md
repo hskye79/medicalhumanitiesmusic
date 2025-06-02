@@ -12,3 +12,5 @@ Type: band music
 # Let Me Eat Your Pancreas
 
 The lyrics describe Sakura, the heroine of a pancreatic cancer patient, from the perspective of Haruki, the hero. The song depicts a breakup with a loved one who is about to die, and the protagonist contains complex emotions to hide her pain while understanding the other's resolutions. It depicts the fighting heroine as a sunflower in the dark, praising her strong will, but also fearing separation.
+
+Example: The similar disease is described in Josh Boone's 2014 film [*The Fault in Our Stars*](lee_minji.md). The film Ed Sheeran's hit song "All of the Stars"

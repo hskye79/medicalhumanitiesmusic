@@ -16,3 +16,8 @@ and although he delivers flyers with his brother to earn daily wages, he sneaks 
 Recognizing Jintae’s remarkable gift and dedication, his brother Joha enters him in a piano competition, where Jintae wins a prize. 
 Through his performance, Jintae transcends his disability and channels it into a passionate expression of music.
 The film warmly portrays how others view Jintae’s playing—with kindness and admiration—and shows how his music brings harmony and warmth to a family with a disabled member.
+
+The same disease 'autism' is described in the movie [*Rain Man*](ahn_ire.md).
+But there is a difference in respect of function of the music performs in each movie.
+The music 'Impromptu in C sharp minor Op.66' reveals Genius of the protagonist Jintae,
+but the music 'Leaving Wallbrook - On the Road' shows disability of the protagonist. 
