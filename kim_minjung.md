@@ -11,7 +11,14 @@ Type: Pop
 
 # Me Before You
 
-In the film Me Before You, Imagine Dragons' "Not Today" is used in the scene after Will has chosen assisted death and passed away. Louisa travels to Paris, carrying Will's final message to "live well" in her heart. As she reads his letter and sits alone at a café, "Not Today" plays in the background, subtly expressing her emotions of sorrow mixed with a tentative hope for a new beginning. The gentle melody and lyrics of the song create an atmosphere that accepts the pain of parting while offering the courage to move forward. Through this music, the film deepens the meaning of human resilience and recovery even in the face of extreme situations like living with quadriplegia.
+In the film Me Before You, Imagine Dragons’ “Not Today” plays during the poignant scene in which Louisa travels to Paris after Will’s death. As she sits alone at a café, reading his final letter urging her to "live well," the song’s gentle melody and introspective lyrics—such as “It’s gotta get easier, oh, easier somehow”—mirror her emotional state. These lines resonate deeply with Louisa’s mix of sorrow and tentative hope, capturing the weight of her grief while hinting at the possibility of healing.
+
+Will’s decision to pursue assisted death stemmed not only from his physical condition as a quadriplegic but from his deep sense of loss over the life he could no longer live on his own terms. His choice, though heartbreaking, reflected his desire to maintain dignity and agency. In the wake of that decision, Louisa’s journey becomes more than a recovery from grief—it becomes her way of honoring Will’s final wish: to live boldly and fully. The music doesn’t deny the pain of parting; instead, it allows space for vulnerability while suggesting the slow return of strength. Louisa’s growth becomes a quiet continuation of the courage and honesty that defined their bond, making her small steps forward a tribute to both loss and renewal.
+
+[In one of the film's most memorable scenes](https://youtu.be/6tz1_znrbmc?si=IgBvV3iQmIPJt7Oh), “Not Today” plays during the ending credits of Me Before You, following the emotional farewell between Louisa (Lou) and Will. As Lou moves forward in life after Will’s death, the song underscores her quiet strength and bittersweet hope for the future. The music video and song serve as a heartfelt epilogue to the film. If you’ve watched Me Before You, listening to this track will likely bring back all the feelings of love, loss, and hope that the movie conveys.
+
 
 Example: The same disease is describe in Olivier Nakache's 2011 film [*Untouchable*](heo_taeyoung.md). The film Ludovico Einaudi
 's hit song "Fly".
+ 
+<img src="./kim_minjung_img.png" alt="image depicting quardriplegia" style="width:25%;" />

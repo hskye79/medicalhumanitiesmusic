@@ -11,7 +11,10 @@ Type: Pop
 
 # We Need to Talk About Kevin
 
-In We Need to Talk About Kevin, the use of Buddy Holly’s "Everyday" serves as a chilling counterpoint to Kevin’s underlying antisocial and psychopathic traits. The song’s light, cheerful melody starkly contrasts with the emotional void and calculated malice that define Kevin’s character. By inserting such an innocent and upbeat track against the backdrop of a collapsing family and Kevin’s escalating violence, the film highlights the deceptive normalcy that often masks profound psychological dysfunction. "Everyday" transforms from a simple pop tune into a symbol of dissonance, emphasizing how Kevin’s disorder festers beneath the surface of ordinary life, unseen until it irreversibly fractures his world.
+In We Need to Talk About Kevin, Buddy Holly’s "Everyday" plays during a haunting Halloween night scene, where Eva drives home through dark, rainy streets filled with children in costumes. The song’s lighthearted melody stands in stark contrast to Eva’s tense expression and the eerie visuals of blurred headlights and wet glass, capturing her inner turmoil and growing dread. The camera mirrors her anxious gaze, turning ordinary suburban sights into sources of fear.
+
+This ironic pairing of upbeat music and psychological distress reflects the film’s central tension between surface normalcy and hidden violence. Rather than providing emotional relief, ["Everyday"](https://www.youtube.com/watch?v=l2Nk-TVuthE) intensifies the discomfort, emphasizing Eva’s alienation and the fragility of routine in the face of trauma.
 
 Example: The similar hardship is described in Alban Berg's 1925 Opera [*Wozzeck*](jang_geunyeong.md). Both works use music to reveal the hidden nature of mental illness, contrasting surface normalcy with underlying psychological collapse.
- 
+
+<img src="./han_yeonsoo_img.png" alt="description" style="width:25%;" />

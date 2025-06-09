@@ -2,7 +2,7 @@
 Year: 2014
 Genre: Film
 Creator: James Marsh
-Disease: amyotrophic lateral sclerosis
+Disease: Amyotrophic Lateral Sclerosis
 ICD: 8B60.0
 Music: The Theory of Everything
 Composer: Jóhann Jóhannsson
@@ -11,6 +11,10 @@ Type: Classical Crossover
 
 # The Theory of Everything
 
-The music delicately captures Stephen Hawking’s journey in coming to terms with the heavy fate of ALS. Especially through its soft and lyrical melody, it conveys complex emotions such as fear, solitude, and hope, which are difficult to express in words. The main theme symbolizes Hawking’s spirit, which continues to soar freely even as his body weakens. The music highlights the contrast between physical limitation and mental transcendence, amplifying the emotional impact. Through the music, the audience feels not just the illness but the unbreakable human spirit within it. Ultimately, music becomes not just a background element but a poetic language that expands the theme of disease. This musical approach leads us to reinterpret illness not merely as tragedy, but as another expression of humanity.
+The music [*The Theory of Everything*](https://youtu.be/nMFUkbr7ymY?si=-FtmRNN__DjKrBJ6) delicately captures Stephen Hawking’s journey in coming to terms with the heavy fate of ALS. In particular, Jóhann Jóhannsson’s score makes extensive use of repeated piano arpeggios and layered string textures, which create a sense of both fragility and resilience. These musical elements effectively illustrate the contrast between physical limitation and mental transcendence, highlighting the human spirit’s triumph over adversity.
+
+The film’s main theme, which features a simple, cyclical piano figure, grows in intensity as more strings are gradually added—symbolizing Hawking’s journey from despair to acceptance. This crescendo mirrors the evolution of his life, showing that even as his body weakened, his mind soared. The music thus functions not merely as background but as a narrative voice that helps the audience experience the struggle and triumph of the human spirit alongside Hawking.
 
 This film [*To kill a Mockingbird*](ha_jeonghyeon.md) does not deal with ALS, but it deals with physical disorders, but it is confirmed that it is a disorder related to the nervous system in common, so the content will also be helpful in dealing with the disease I described.
+
+<img src="./Lee_JunHee_img.png" alt="image depicting ALS" style="width:35%;" />

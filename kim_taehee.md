@@ -9,12 +9,17 @@ Composer: Kim Joon-sung
 Type: Instrumental
 ---
 
-# 말아톤(film maraton)
+# maraton
 
-“Run, Cho-won” is featured in the film’s final marathon sequence, portraying a powerful moment in which the protagonist, who has autism spectrum disorder, overcomes his limitations and connects with the world. Composer Kim Joon-sung uses a delicate interplay of piano and strings to express Cho-won’s inner tension, deep concentration, and eventual sense of freedom. Beyond mere storytelling, the music conveys the complexity of Cho-won’s emotions, offering a non-stereotypical perspective on disability. Rather than marking him as "special" or "different," the music respectfully reveals his unique emotional world and subtly reminds us that his feelings and experiences are not unlike those of anyone else. It transforms the perception of disability into a different but equally valid way of experiencing life.
-
-The ballad featured in the drama It’s Okay, That’s Love delicately portrays the emotional journey of Jang Jae-yeol, who suffers from schizophrenia. Its lyrical melody and emotionally charged vocals express the confusion he experiences between reality and illusion, his deep sense of loneliness, and the complex emotions within his romantic relationship. The music serves as a medium that conveys his vulnerability and his hope for healing.
-
-This method of expressing psychological distress and emotional depth through music is closely related to the film Marathon, which I analyzed separately.[*It's Okay, That's Love*](do_gwanwoo.md) Although Marathon deals with autism—a different subject—it shares a common approach in using music to reveal the protagonist’s inner world. In particular, the piece Run, Cho-won communicates Cho-won’s emotions without words, allowing the audience to feel his experience. The music functions not just as background, but as a narrative device that adds depth to the character’s emotional arc.
+“Run, Cho-won” is used in the film's climactic and final marathon scene, depicting a pivotal moment when the protagonist, Cho-won, who is on the autism spectrum, overcomes his physical and emotional limitations. Composer Kim Jun-sung uses a delicate blend of piano and strings to portray Won's inner thoughts. In the opening, a cautious, hesitant melody expresses Won's anxiety and focus, and as the scene unfolds and Won finds his rhythm, the music expands into warm, [lush string harmonies that convey a sense of emotional release.](https://youtu.be/6nM9hL95LzA?si=K-sWANjdfgn4h9jX)
+This musical development is closely synchronized with the flow of the visuals. As Won runs the final stretch and is cheered on by his mother, the music gradually builds to a crescendo as he completes the marathon, heightening the emotional moment. In this scene, the music represents not just success, but the possibility of doing the impossible. The music doesn't package Meadow as “special” or make him an object of pity, but shows his emotions in a genuine and sensitive way.
+The world of the meadow is not portrayed as something disconnected from the outside world, but as a world of deeply human emotions that anyone can relate to, and we can feel that autism is not a disability, but a different life, a life that can be conveyed without words. 
 
 
+
+The ballad used in the drama [“It's Okay, It's Love”](do_gwanwoo.md) delicately depicts the emotional journey of Jang Jae-yeol, who suffers from schizophrenia. The lyrical melody and emotionally charged vocals express his confusion of reality and illusion, his loneliness, and his complex feelings in love. The music becomes a musical vehicle to convey Jang's vulnerability and hope for healing.
+
+This way of expressing psychological pain and emotion is also deeply connected to the film I analyzed, Malathon. Although Malathon has a different narrative, as it deals with autism, it has similarities in that it uses music to show the inner world of the protagonist. In particular, the interlude “Run to the Meadow” conveys to the audience what Won-woon is feeling without words, demonstrating that music functions as a narrative tool beyond just a background.
+
+
+<img src="./kim_taehee_img.png.png" alt="image description autism spectrum disorder" style="width:40%;" />

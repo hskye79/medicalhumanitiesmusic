@@ -13,4 +13,8 @@ Type: Film Score
 
 The Legend of 1900 (1998) is a film directed by Giuseppe Tornatore, depicting the life of a genius pianist named “1900,” who was born on a ship and never once set foot on land. The protagonist suffers from severe Social Anxiety Disorder, feeling extreme fear at the thought of leaving the ship. Through his unique life story, the film delicately portrays the loneliness and anxiety of human existence.
 
-The film metaphorically expresses Social Anxiety Disorder through the character 1900, who, out of fear of the outside world and social interaction, chooses to live his entire life on the ship. Rather than explaining through dialogue, the film subtly and emotionally conveys his inner anxiety and isolation through his actions, expressions, and the music.
+[In one of the film's most memorable scenes](https://m.youtube.com/watch?v=F0OR-93eKcw) The film metaphorically expresses Social Anxiety Disorder through the character 1900, who, out of fear of the outside world and social interaction, chooses to live his entire life on the ship. Rather than explaining through dialogue, the film subtly and emotionally conveys his inner anxiety and isolation through his actions, expressions, and the music.
+
+Example：The same disease is described in Mamoru Hosoda's 2021 film [*The Dragon and the Freckled Princess*](huh_yejin.md) The film Belle's hit song ＂A Milloin Miles Away.＂
+
+<img src="./zhou_yu_img.jpg" alt="image depicting social anxiety disorder" style="width:25%;" />
