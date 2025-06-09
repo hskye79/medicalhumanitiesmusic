@@ -30,3 +30,5 @@ It's part of the lyrics of this OST : My heart aches when I see you. It's okay, 
 Like my movie OST, [Hilary and Jackie](jin_zhiyuan.md) express the sadness experienced by the main character through music.
 
 <img src="./do_gwanwoo_img.png" alt="image depicting IT's Okay, That's Love OST" style="width:25%;" />
+
+I hope [circular op.2 (restored) - M.C the MAX](https://youtu.be/YBfjQ4Jst6k?si=L_VvgDOm5TYrhEN7) comes out at my funeral. The reason is that it's my favorite song and it's a comforting song when I'm in trouble, so I want it to comfort people who are struggling with my death.
