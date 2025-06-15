@@ -21,7 +21,8 @@ Example: The same disability is described in Robert Mulligan's 1962 film [To Kil
 
 <img src="./noh_huicheol_img.png" alt="image depicting Dyskinetic cerebral palsy" style="width:30%;" />
 
-# 내 장례식에서 연주되길 희망하는 음악
+
+## 내 장례식에서 연주되길 희망하는 음악
 
 [Lacrimosa](https://youtu.be/bezZ6NfwFlQ?si=i7Y56vfvdOx8XHNG) - composer: Wolfgang Amadeus Mozart
 
