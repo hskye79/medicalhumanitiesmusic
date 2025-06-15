@@ -17,4 +17,4 @@ Example: A movie similar to CODA is Sound of Metal (2019).Both films center arou
 
 <img src="./yu__taehee_img.png" alt="description" style="width:25%;" />
 
-Westlife의 "My Love"는 사랑하는 사람과의 이별 후, 그리움과 추억을 간직한 채 다시 그 시절로 돌아가고 싶다는 마음을 담고 있는 곡입니다. 부드러운 멜로디와 절제된 감정 표현은 장례식이라는 엄숙한 순간에 조용한 위로를 전하며, 고인을 추억하는 이들의 감정을 자연스럽게 끌어올립니다. 단순한 슬픔을 넘어서, 삶의 소중한 순간들과 사랑의 기억을 되새기게 하는 이 곡은 고인을 향한 애도와 감사의 마음을 진정성 있게 표현하기에 적절하다고 생각합니다.
+Westlife의 "My Love"는 사랑하는 사람과의 이별 후, 그리움과 추억을 간직한 채 다시 그 시절로 돌아가고 싶다는 마음을 담고 있는 곡입니다. 부드러운 멜로디와 절제된 감정 표현은 장례식이라는 엄숙한 순간에 조용한 위로를 전하며, 고인을 추억하는 이들의 감정을 자연스럽게 끌어올립니다. 단순한 슬픔을 넘어서, 삶의 소중한 순간들과 사랑의 기억을 되새기게 하는 이 곡은 고인을 향한 애도와 감사의 마음을 진정성 있게 표현하기에 적절하다고 생각합니다. [My Love](https://www.youtube.com/watch?v=ulOb9gIGGd0&list=RDulOb9gIGGd0&start_radio=1)
