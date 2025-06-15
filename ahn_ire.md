@@ -24,10 +24,10 @@ A drama that deals with the same disability is [*Extraordinary Attorney Woo*](ki
 ### 내가 남기고 싶은 마지막 한 곡,
 
 저의 장례식을 상상해 보면, 제 부재에 대한 슬픔보다는 저와 함께한 행복한 추억들이 떠올라, 눈물과 미소가 함께 어우러지는 공간이 되었으면 합니다.
-그렇기에 제 장례식장에는 고요한 적막이나 전형적인 찬송가 대신, Chopin Piano Concerto No.2, 2악장이 흘러나왔으면 합니다.
+그렇기에 제 장례식장에는 고요한 적막이나 전형적인 찬송가 대신, **Chopin Piano Concerto No.2, 2악장**이 흘러나왔으면 합니다.
 
 이 곡은 제가 음악을 공부하며 만난 수많은 작품 중 가장 아름다운 곡 중 하나입니다. 쇼팽이 짝사랑하던 사람을 떠올리며 작곡했다고 전해지는데, 그래서인지 이 음악을 들을 때마다 설렘과 애틋한 그리움, 그리고 따뜻한 행복함을 느낄 수 있었습니다.
 
 저의 마지막을 만나러 오시는 분들이, 이 곡을 들으며 제가 느꼈던 감정들을 조금이나마 함께 느끼며 저를 추억해 주셨으면 합니다.
 
-[Chopin Piano Concerto No.2 - 2nd mov)](https://youtu.be/esKjnh0vBYk?si=AdJgwScn9eNHXrBv)
+[Chopin Piano Concerto No.2 - 2nd mov](https://youtu.be/esKjnh0vBYk?si=AdJgwScn9eNHXrBv)
