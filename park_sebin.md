@@ -18,3 +18,5 @@ Savant Syndrome refers to a condition in which individuals with intellectual or 
 Autism, a type of developmental disorder, is depicted in Yoon-chul Chung’s 2005 film [*Marathon*](kim_taehyeong.md). The song “Run, Cho-won” featured in the movie effectively reflects the protagonist’s repetitive and routine-based life. Just as the main character in the film Keys to the Heart, which I wrote about, shows talent in playing the piano, the protagonist of Marathon also demonstrates great talent—specifically in running.
 
 <img src="./park_sebin_img.png" alt="image depicting Savant Syndrome" style="width:25%;" />
+
+저의 장례식에 틀어졌으면 하는 음악은 Daniel Caesar의 ['Blessed'](https://youtu.be/h1u8C9n8HyA?si=SBoabGen_AUfvJ01) 입니다. 그 이유는 가사에 "I'm coming back home to you"라는 구절이 여러 번 반복되는데 내가 죽은 후에도 날 그리워하는 사람들과 늘 함께하고 있을 거라는 마음을 대신 전해줄 수 있는 곡이라고 생각했기 때문입니다.
