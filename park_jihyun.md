@@ -18,3 +18,6 @@ Another key point is that the entire OST flows in line with the reconciliation b
 Example: The same disease is described in Park dongjin’s 19th century korean traditional sounds [*Simcheongga*](ahn_ryeogyeong.md). The korean traditional sounds Park dongjin's pansori hit song “Sim cheong’s Milk-Begging Journey.”
 
 <img src="./park_jihyun_img.PNG" alt="image depicting visual disturbance" style="width:25%;" />
+
+[데이식스-한 페이지가 될 수 있게](https://youtu.be/vnS_jn2uibs?si=4BHRU0bYm84D-y8U)
+장례식이 너무 어둡고 무겁기보다는, 나와 함께했던 순간들을 따뜻하게 떠올릴 수 있는 시간이 되길 바란다. 그래서 이 노래를 선택했다. '한 페이지가 될 수 있게'는 누군가와 함께했던 시간을 소중히 기억하고, 그 순간들이 삶의 아름다운 한 페이지가 되길 바라는 마음을 담고 있다. 내 삶이누군가의 책 속에 한 페이지로 남아, 좋은 기억으로 오래 머물기를 바라는 마음을 담아 이 곡을 마지막에 전하고 싶다.

@@ -21,6 +21,15 @@ In the latter part of the piece, the melody steadily rises, with more instrument
 
 No longer trapped in repetition, the melody now stretches outward, conveying a sense of forward motion and personal discovery. It symbolizes Auggie’s embrace of his uniqueness and the establishment of his identity.
 
-The similar disease is described in Michael Gracey’s 2017 film [*The Greatest Showman*](shin_minchul.md). The film’s song is “This Is Me”. It is similar in that it is a movie about people with physical deformities such as dwarfism, gigantism, and albinism.
+The similar disease is described in Michael Gracey’s 2017 film [*The Greatest Showman*](shin_minchul.md). The film’s song is “This Is Me”. It is similar in that it is a movie about people with physical deformities such as dwarfism, gigantism, and albinism. Another similarity is that the music in both films expresses the protagonists’ inner growth.
 
 <img src="./kim_hyerin_img.jpg" alt="image descripts Treacher Collins Syndrome" style="width:30%;" />
+
+The piece I would like to be played at my funeral is Edvard Grieg’s ["“Morning Mood,” Op. 46 No. 1."](https://youtu.be/g2-a63dCPT0?si=fDrtKnoybSSC_R_q)
+From the very beginning, the music conveys a sense of morning that feels pure and familiar to everyone. It beautifully captures the feeling of crisp, early dawn air—a piece I often listened to when I couldn’t sleep.
+
+If this music were played at my funeral, I believe it would make the moment feel less like the end of a life and more like the beginning of another—like the start of a new day. Around the one-minute mark, the melody gradually intensifies, as if expressing a life lived with passion and purpose. Then, as the piece gently winds down, it seems to whisper a quiet farewell while hinting at a new journey beyond this life.
+
+More than anything, this music brings peace to those who listen. I hope that, for those mourning my passing, it will offer comfort and a gentle sense of calm.
+
+

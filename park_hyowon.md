@@ -18,3 +18,5 @@ Type: Folk music
 A movie that deals with the same disability is [*Rain Man*](ahn_ire.md) and "Weird Lawyer Woo Young-woo" move away from the view of autism spectrum disorder as simply a "disease". It's a work that takes it as "different" and shows that it can be linked to human values and dignity. Both characters are socially out of line with what is considered to be "normal", Connect with the world in your own way and shake the stereotypes of those around you. Their appearance sends an important message about the understanding, inclusion, and diversity of disabilities.
 
 <img src="./hhoa1r_image.png" alt="a description of Woo Young-woo's imagination" style="width:25%;">
+
+The music in my funeral : If I die, I want to play [Redoor - Forever Has Always Been (영원은 그렇듯)](https://youtu.be/JNy_pVfs6yQ?si=rfGLRGix7L4gmVWT). The song has the theme of "Eternity may be false, something that cannot last forever." The lyrics do not just show the idea of separation, but show a deep interpretation of thoughts and relationships about eternity. I chose it, hoping that the people who come to my funeral with Melody would be healed by the lyrics.

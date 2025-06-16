@@ -18,3 +18,5 @@ The film portrays cancer not only as a physical illness but also as an emotional
 Example: The similar disease is described in Tsukikawa Sho's 2017 Film [*Let Me Eat Your Pancreas*](choi_yunji.md), where the story revolves around a high school girl secretly living with a terminal pancreatic disease. Like The Fault in Our Stars, the film explores how impending death deepens emotional connections and highlights the beauty in everyday interactions, emphasizing that even brief relationships can leave lasting impressions.
 
 <img src="./kwon_nayun_img.png" alt="image depicting cancer" style="width:30%;" />
+
+If I could choose the music to be played at my own funeral, I would choose [traditional Buddhist music](https://youtu.be/SQ4D5x_yEE0?si=maGy30lv7scAlNJq). The soft chanting and calming rhythms bring me a deep sense of peace and help me reflect quietly. I find comfort in its simplicity and spiritual depth, which creates a serene atmosphere. I hope this kind of music would also bring peace to those attending, offering them gentle comfort rather than sorrow. It would be a way of sharing my values of calmness, mindfulness, and acceptance even in the final moment.

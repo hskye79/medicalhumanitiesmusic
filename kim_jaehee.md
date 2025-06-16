@@ -18,3 +18,8 @@ Example : The same disease is discribed in In Shik Yoo's 2022 drama [*Weird lawy
 
 <img src="./kim_jaehee_img.PNG" alt="description" style="width:25%;" />
  
+지킬앤하이드 <Take Me As I Am>
+내 인생을 바꾼 가장 감명깊었던 뮤지컬에, 가장 좋아하는 넘버다. 이 넘버는 지킬 박사가 자신의 위험한 실험에 몰두하기 직전, 엠마와 미래에 대한 다짐을 나누는 장면에서 부른다.
+둘은 서로에 대한 믿음과 사랑을 노래하며, "있는 그대로의 나를 받아줘"라는 메시지를 전한다. 이 곡은 엠마가 지킬의 고뇌와 불안정을 이해하고 수용하겠다는 사랑의 서약이고, 지킬은 그런 그녀에게 감사를 표현하며 “내가 어떤 모습이든 너만 믿고 가겠다”는 다짐이 담겨 있다. 
+
+(https://youtu.be/DbBwlKmkZ1s?si=5RTrOvpP8_Q3w_TE)

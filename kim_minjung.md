@@ -18,7 +18,11 @@ Will’s decision to pursue assisted death stemmed not only from his physical co
 [In one of the film's most memorable scenes](https://youtu.be/6tz1_znrbmc?si=IgBvV3iQmIPJt7Oh), “Not Today” plays during the ending credits of Me Before You, following the emotional farewell between Louisa (Lou) and Will. As Lou moves forward in life after Will’s death, the song underscores her quiet strength and bittersweet hope for the future. The music video and song serve as a heartfelt epilogue to the film. If you’ve watched Me Before You, listening to this track will likely bring back all the feelings of love, loss, and hope that the movie conveys.
 
 
-Example: The same disease is describe in Olivier Nakache's 2011 film [*Untouchable*](heo_taeyoung.md). The film Ludovico Einaudi
-'s hit song "Fly".
+Example: The same disease is describe in Olivier Nakache's 2011 film [*Untouchable*](heo_taeyoung.md). The film Ludovico Einaudi's hit song "Fly".The uplifting melody of “Fly” beautifully captures the emotional journey and unlikely friendship at the heart of the story.
  
 <img src="./kim_minjung_img.png" alt="image depicting quardriplegia" style="width:25%;" />
+
+
+The Music I Wish to Be Played at My Funeral
+
+I chose [Debussy’s Clair de Lune](https://youtu.be/97_VJve7UVc?si=FG_WfM9KhX9SZ8Md) because of its calm and dreamlike atmosphere, which I feel brings a sense of peace at the end of life. Rather than evoking sorrow, the piece gently invites reflection on beautiful memories. I hope it can offer a soft and warm farewell to those who gather.

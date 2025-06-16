@@ -18,3 +18,5 @@ This film tells the story of John Nash, a mathematical genius at Princeton Unive
 The same disease is described in Noh Heekyung's 2014 drama [*It's Okay, Taht's Love!*](do_gwanwoo.md). The drama Davichi's hit song "It's Okay, That's Love"
 
 <img src="./Chen_Zhixuan_img.png.png" alt="image depicting Delusional Schizophrenia" style="width:35%;" />
+
+The song I want to play at the funeral is Deng Yao's [*Farewell Book*](https://www.youtube.com/watch?v=flSg2kEFK1E) . The name of this song is very sad, symbolizing separation, but the melody is indeed cheerful. I also hope that those who attend the funeral will not come with too sad a mood and this song will be my last voice to accompany them through the moment of separation.

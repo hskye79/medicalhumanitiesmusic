@@ -16,3 +16,5 @@ Elmer Bernstein’s main theme in To Kill a Mockingbird is composed of a simple 
 Example: The same disease is desribed in Barry Levinson's 1988 film [*Rain Man*](ahn_ire.md). The film contains Hans Zimmer's "Leaving Wallbrook - On the Road." The piece reflects the emotional complexity of living with autism, echoing the internal struggles and moments of clarity experienced by the protagonist.
 
 <img src="./ha_jeonghyeon_img.png" alt="describing autism related movie" style="width:25%;" />
+
+I want [Fast Cars & Superstars](https://youtu.be/JrW5fuDmblk?si=nhITjcSwKNw4lnhl) by Christian Marchi to be played at my funeral. I was procrastinating on assignments and listening to an EDM playlist when it came up on YouTube—and it instantly lifted my mood. At my funeral, I want bubble machines placed on both sides of my casket, constantly filling the air with bubbles. I want pink lighting, and a bar set up to the side where my kids and friends can enjoy the whiskey and liqueurs I’ve collected throughout my life.

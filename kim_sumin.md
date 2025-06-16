@@ -1,6 +1,6 @@
 ---
 Year: 1886
-Genre: novel
+Genre: musical
 Creater: Rober Louis Stevenson
 Disability: dissociative identity disorder
 ICD: 6B64
@@ -30,3 +30,7 @@ In this way, “This is the Moment” does not merely represent a turning point 
 Example: A similar disease(mental disorder) is described in Belle's 2021 film [*The Dragon and the Freckled Princess*](huh_yejin.md). Both social and multi-personality disorders have in common that they have difficulty maintaining daily interpersonal relationships.
 
 <img src="./kim_sumin_img.PNG" alt="image depicting dissociative disorder" style="width:35%;" />
+
+장례식에 틀고 싶은 음악: [*River flows in you*](https://m.youtube.com/watch?v=7maJOI3QMu0&pp=ygURcml2ZXIgZmxvdyBpbiB5b3U%3D)
+
+River flows in you는 한국 작곡가이자 피아니스트 이루마가 2001년에 발표한 피아노 솔로곡으로, 그의 대표작이자 세계적으로 널리 알려진 뉴에이지 피아노 곡이다. 장례식에 이 곡을 틀고싶은 이유는 어릴 때 가장 좋아했던 클래식 음악이기도 하고, 가사 없는 선율이기 때문에 조용한 추모 분위기에 어울린다고 생각하기 때문이다. 나의 장례식이 너무 어두운 분위기지 않았으면 하는 바람이 있어서 따뜻한 느낌을 주는 이 곡을 틀어놓고 싶다.

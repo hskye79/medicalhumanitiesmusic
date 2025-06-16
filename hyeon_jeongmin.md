@@ -15,7 +15,7 @@ Everywhere at the end of time is a six-part album series created by The Caretake
 
 In order to express mental breakdown, mental illness, confusion, and uncertainty, we can see that many difficult-to-listen-to musics, such as the 12-tone technique that appears in [wozzeck](jang_geunyeong.md), that are outside the existing harmonic system are used. The characteristic of this work that is in contrast to Wozzeck is that it is electronic music, so there is intentional noise and sound.
 
-Links to each stage
+Links to each stage  
 [Stage1](https://www.youtube.com/watch?v=wPOF5FgG3DU&list=OLAK5uy_mojBy7gXjbb-DCXjYCTWz1lp30IcEeZMQ)
 [Stage2](https://www.youtube.com/watch?v=I-xn5w8VXVQ&list=OLAK5uy_kz9wNQpu4cF3awH9pilOd_pkwhrbEE1xM)
 [Stage3](https://www.youtube.com/watch?v=ca6R3qfmN5U&list=OLAK5uy_k4s7OrxbRBis9ArGFvXjC19ZyGe8HuGOA)
@@ -24,3 +24,6 @@ Links to each stage
 [Stage6](https://www.youtube.com/watch?v=hNY4putr7-I&list=OLAK5uy_kk5jHTM05i-WrK41Mlk2wW2WwYyPbcS8A)
 
 <img src="hyeon_jeongmin_img.png" alt="A painting of an old man suffering from memories and empty spaces in his memory of unknown origin." style="width:25;" />
+
+Music to be played at my funeral.  
+It is foolish to worry after death. But I like foolishness. Because it is a true heart without lies. I don't think I will die before my parents and my older sister, unless there is a disaster. Even if that happens, it will not change anything. I hope my death does not bring about any change in others. It is not that I want no one to be sad about my death. I just hope that the sadness does not have any more meaning. In that context, the song "Boy Reside Ahead Of Girls University"[(여대 앞에 사는 남자)](https://www.youtube.com/watch?v=rQUHVDb57uU) by Yoon Seok-cheol Trio will be played at my funeral. It has no particular meaning. I hope that it continues to move like fingers on a piano.

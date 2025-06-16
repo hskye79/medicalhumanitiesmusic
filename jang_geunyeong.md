@@ -15,6 +15,11 @@ In Wozzeck, Alban Berg employs dissonance, atonality, and fragmented rhythmic pa
 
 _[Wozzeck](https://youtu.be/MdN-9JAtCdo?si=TArwn3FBEUoWd-1t)_
 
-Example: The similar disease 'Schizophrenia' is described in _[*A beautiful mind*](pyo_sujin.md)_. In Wozzeck and A Beautiful Mind, music does more than just accompany the scenes—it quietly follows the characters’ thoughts and emotions. Their anxiety and confusion come through in the sound, making it easier for the audience to get a sense of what’s going on inside them. Instead of explaining the illness, the music lets us feel it.
+Example: The similar mental illness disease 'Schizophrenia' is described in _[*A beautiful mind*](pyo_sujin.md)_. In Wozzeck and A Beautiful Mind, music does more than just accompany the scenes—it quietly follows the characters’ thoughts and emotions. Their anxiety and confusion come through in the sound, making it easier for the audience to get a sense of what’s going on inside them. Instead of explaining the illness, the music lets us feel it.
+
+Funeral Music: I want “_[Don't Cry](https://youtu.be/fdlzZLOEYEg?si=4c3ZpazEtfnxBvT-)_” by Minho Jin, to be played at my funeral.
+It’s one of my favorite songs, and I hope it tells people not to be too sad.
+Even if I’m not around, I want everyone to live happily and not cry.
+That’s all I wish for.
 
 [Wozzcek mental illness]![ChatGPT Image 2025년 6월 8일 오후 06_03_45](https://github.com/user-attachments/assets/d07c8b26-8bf8-4119-b570-26b9b97e0091)

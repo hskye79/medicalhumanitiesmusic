@@ -15,8 +15,11 @@ In "Keys to the Heart," music is not used to highlight Jin-tae's disability as a
 In the movie, Beethoven's Moonlight Sonata (3rd Movement) is used when Jin-tae first reveals his hidden talent by playing the piano. The piece’s calm and melancholic tone reflects Jin-tae’s isolated inner world and marks the moment when his brother Jo-ha begins to see him in a new light.
 
 
-I felt a sense of similarity between the work I selected and the storyline of [My Annoying brother](kim_yesung.md) in that both portray “reconciliation between siblings through music.” In both works, music effectively expresses the conflict within the family caused by disability, and the way family members begin to see each other as people—as family—beyond the disability.
+I felt a sense of similarity between the work I selected and the storyline of [My Annoying brother](kim_yesung.md) in that both portray “reconciliation between siblings through music.” Both films effectively convey the emotional changes between brothers through instrumental music, without relying on lyrics. However, the film "Keys to the Heart", which I introduced, places music at the center of its narrative, thereby emphasizing the theme of reconciliation through music more strongly. In contrast, "My Annoying Brother" uses music mainly as background accompaniment, making its narrative role less prominent in comparison.
 
 [This](https://www.youtube.com/watch?v=uNRvJujw7ws) is the piano performance scene I described from the film.
 
 <img src="./moon_sehyun_img.png" alt="description" style="width:25%;" />
+
+# 나의 장례식에 나오길 바라는 음악
+나의 장례식에서는 칸예 웨스트의 [Ghost town](https://youtu.be/qAsHVwl-MU4?feature=shared) 이 틀어지길 희망한다. 그는 21세기 대중음악에 큰 공을 세웠고, 평단과 대중의 찬사를 받았지만 불안정한 모습을 많이 보였다. 그렇기에 그의 양극성 장애를 "I hate being Bi-polar. It's awesome"이라는 문구로 앨범 자켓에 표현한 정규 8집 "ye" 의 수록곡인 "Ghost town"에서 "Someday the drama'll be gone. And they'll play this song on and on." 이라는 가사는 의미심장하다. 이 곡은 Shirley Ann Lee의 "Someday"를 샘플링한 인트로로 시작하고, 이후 드럼셋과 일렉기타가 등장하며 곡의 분위기를 극적으로 끌어올린다. 적재적소에 배치된 칸예의 라임 뿐만 아니라 070Shake나 Kid Cudi 등 게스트의 참여 역시 돋보인다. 특히 후렴 부분에서 질감을 살린 킥 드럼과 강조된 베이스 소리를 얹은 보컬이 청자를 사로잡는다. 스타의 삶이 그렇듯 그의 일거수 일투족은 많은 언론의 조명을 받았고, 이를 원하지 않는 경우도 많았을 것이다. 세계적인 스타인 칸예와 비교하기는 부족하지만, 나 역시 타인의 평가를 의식하고 그에 맞춰 행동한 적이 있다. 그렇기에 나의 발자취를 남기는 과정에서 내가 세상을 떠남에도 그 영향이 남아있다면, 이는 나 스스로는 남의 평가나 시선과 독립될 수 있다는 점에서 의미있게 다가왔다. 그의 음악을 좋아하지만, 가끔 이해하기 힘든 과격한 언행을 보일 때도 많다. 그럼에도 이 곡에서 그가 전달하려는 메세지에는 진심이 담겨있고, 그를 통해 많은 위로를 받았기에 내 장례식에 온 사람들 역시 이 곡을 통해 나를 다시 떠올리고 위로받을 수 있기를 바란다.
