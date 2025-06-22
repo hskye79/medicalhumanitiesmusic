@@ -13,9 +13,7 @@ Type: Metal
 Sound of Metal (2019) explores the journey of hearing loss through the lens of music and sound. It begins with intense metal music, reflecting the main character Ruben's life as a drummer. As he starts losing his hearing, the sound design shifts dramatically. Loud and immersive audio gives way to muffled noises and silence, drawing the audience into Ruben’s evolving auditory world.  
 Composer Nicolas Becker's sound design plays a crucial role in this transition. Rather than serving as background music, the soundscape itself becomes a tool for expressing disability. When Ruben uses a cochlear implant, the harsh, metallic distortions he hears emphasize the dissonance between hearing sound and understanding sound—between mechanical hearing and organic perception.  
 Eventually, Ruben finds peace not in regaining sound, but in embracing silence. In this way, music becomes more than expression—it becomes a reflection of loss, adaptation, and inner stillness.  
-
-<img src="sound_of_metal_hearing.png" 
-
+<img src="./sound_of_metal_hearing.png" alt="Sound of Metal hearing transition: Full hearing → Muffled sounds → Silence" style="width:25%;">
 ---
 
 장례식에서 연주되길 희망하는 음악
