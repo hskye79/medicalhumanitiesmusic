@@ -15,7 +15,8 @@ Rachmaninoff's concerto structurally mirrors bipolar disorder's dual phases:
    - Rapid arpeggios (BPM≥160) and fortissimo brass sections sonify racing thoughts  
    - Cadenza's technical demands  
 
-<img src="https://raw.githubusercontent.com/wiki/WHO/ICD-10/images/F31_flowchart.png" alt="ICD-10双相障碍诊断流程图：躁狂/抑郁周期与音乐强度映射" style="width:30%;">  
+<img src="./jiang_wanjing.jpg" alt="Sound of Metal hearing analysis" style="width:30%;">
+ 
 ---
 
 장례식에서 연주되길 희망하는 음악
