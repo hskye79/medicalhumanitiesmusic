@@ -26,3 +26,6 @@ Example: The same disease is describe in Olivier Nakache's 2011 film [*Untouchab
 The Music I Wish to Be Played at My Funeral
 
 I chose [Debussy’s Clair de Lune](https://youtu.be/97_VJve7UVc?si=FG_WfM9KhX9SZ8Md) because of its calm and dreamlike atmosphere, which I feel brings a sense of peace at the end of life. Rather than evoking sorrow, the piece gently invites reflection on beautiful memories. I hope it can offer a soft and warm farewell to those who gather.
+
+형제중 막내로 태어난 j는 어렸을 적 부터 부모님의 성적에 대한 집착으로 형과 차별받기 시작한다. 반1등 성적표를 가져와도 늘 식탁 위에 있는 종이신세였다. 형은 늘 전교 1등이기에. 어렸을 적 부터 j에게 내재된 비교,차별은 그가 사회에 나가'우울증'이라는 질병으로 나타나게 된다. 
+[플레이리스트](https://youtube.com/playlist?list=PLXvR9XOgRrClw1QLMDmS4JkXWwI-OKbQ4&si=BVh0-wXGD1h4247s)

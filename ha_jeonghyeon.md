@@ -18,3 +18,6 @@ Example: The same disease is desribed in Barry Levinson's 1988 film [*Rain Man*]
 <img src="./ha_jeonghyeon_img.png" alt="describing autism related movie" style="width:25%;" />
 
 I want [Fast Cars & Superstars](https://youtu.be/JrW5fuDmblk?si=nhITjcSwKNw4lnhl) by Christian Marchi to be played at my funeral. I was procrastinating on assignments and listening to an EDM playlist when it came up on YouTube—and it instantly lifted my mood. At my funeral, I want bubble machines placed on both sides of my casket, constantly filling the air with bubbles. I want pink lighting, and a bar set up to the side where my kids and friends can enjoy the whiskey and liqueurs I’ve collected throughout my life.
+
+지민은 긴 머리를 자르고 병원 침대에 누워 있었다. 백혈병 진단을 받은 날, 그녀는 민호의 손을 꼭 잡고 울었다. 하지만 시간이 지날수록 병보다 더 무서운 건 민호의 미래를 망칠지도 모른다는 두려움이었다. 결국 지민은 결심했다. "우리, 그만하자." 민호는 아무 말도 못 하고 눈물만 흘렸다. 지민은 마음속으로만 속삭였다. 널 사랑해서 보내는 거야.
+Lolo Zouaï의 [Beaucoup](https://youtu.be/aqvY9dKny4E?si=SXwaHVhhdHEkP9aG), 이하이의 [이별](https://youtu.be/5iSlfF8TQ9k?si=4iphuyIX-ET2NPtd)

@@ -21,7 +21,10 @@ A drama that deals with the same disability is [*Extraordinary Attorney Woo*](ki
 
 ---
 
-### 내가 남기고 싶은 마지막 한 곡,
+## 내가 남기고 싶은 마지막 한 곡,
+
+
+[Chopin Piano Concerto No.2 - 2nd mov](https://youtu.be/esKjnh0vBYk?si=AdJgwScn9eNHXrBv)
 
 저의 장례식을 상상해 보면, 제 부재에 대한 슬픔보다는 저와 함께한 행복한 추억들이 떠올라, 눈물과 미소가 함께 어우러지는 공간이 되었으면 합니다.
 그렇기에 제 장례식장에는 고요한 적막이나 전형적인 찬송가 대신, **Chopin Piano Concerto No.2, 2악장**이 흘러나왔으면 합니다.
@@ -30,4 +33,19 @@ A drama that deals with the same disability is [*Extraordinary Attorney Woo*](ki
 
 저의 마지막을 만나러 오시는 분들이, 이 곡을 들으며 제가 느꼈던 감정들을 조금이나마 함께 느끼며 저를 추억해 주셨으면 합니다.
 
-[Chopin Piano Concerto No.2 - 2nd mov](https://youtu.be/esKjnh0vBYk?si=AdJgwScn9eNHXrBv)
+
+
+---
+
+## 나의 질병서사
+
+2017년 겨울, 일을 하던 중 난간 추락 사고로 저는 뇌출혈이 생겼습니다. 의식을 되찾았을 땐, 언어 감각이 둔해져 쉬운 단어와 문장조차도 버벅이게 되었고, 무엇보다 부분적인 기억 상실이 저를 당황케 했습니다. 친구들과 친척들의 이름은 뒤죽박죽 섞여서 기억나지 않았고, 심한 어지럼증과 균형 감각의 상실로 누군가의 도움 없이는 스스로 걸을 수조차 없었습니다. 거의 침대에서 보냈던 그 4개월은, 정말 하얬고 의미라곤 없는 긴 공백의 시간처럼 느껴졌습니다.
+
+아무것도 하지 못하기에 고요하고 차분했던 대부분의 시간 속에서, 저는 묵묵히 저를 지켜준 가족들과 친구들의 사랑을 고스란히 느낄 수 있었습니다. 더디지만 매일 조금씩 나아지는 몸 상태, 둔해진 감각들이 제자리를 찾아가고 스스로 다시 한 걸음씩 걷기 시작했을 때의 벅참은 앞으로도 참 많은 위로가 될 것 같습니다. 되돌아보면 고통스러운 순간들로 채워진 시간들이었지만, 그 공백의 시간들이 제 삶의 소중함과 회복의 경이로움을 깨닫게 해준 것 같습니다.
+
+그 당시 제가 느낀 깊은 고요함, 그리고 무거운 우울함, 환희가 있는 곡들을 추려보았습니다.
+1) [Debussy: Suite bergamasque, L. 75: III. Clair de lune](https://youtu.be/U3u4pQ4WKOk?si=BR7JgnPGflFjA5kb)
+2) [Marcello: Oboe Concerto in D Minor, S. Z799: II. Adagio](https://youtu.be/sCEkAFL53k4?si=mfosysgWXL1_7FYm)
+3) [Liszt: Harmonies poétiques et religieuses, S. 173: VII. Funérailles](https://youtu.be/EadS7DEHSKM?si=suJYK-wL_blzJPqE)
+
+
