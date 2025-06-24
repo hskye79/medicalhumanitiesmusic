@@ -2,7 +2,7 @@
 Year: 2014
 Genre: Film
 Director: James Marsh
-Disease: ALS
+Disease: ALS (Amyotrophic Lateral Sclerosis, also known as Lou Gehrig's disease)
 ICD: 8B60.0
 Music: Die Walküre Act 1 - Vorspiel, Siegfried Act 3 Scene 3 - Brünnhildes Erwachen
 Composer: Richard Wagner (1813-1883)
