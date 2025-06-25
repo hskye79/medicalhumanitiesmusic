@@ -15,7 +15,7 @@ The Turkish march's characteristic lively and cheerful feeling represents Jin-ta
 
 Both films focus on characters with special abilities with Sarvant syndrome or [*autism spectrum disorder*](ahn_ire.md), attempting to break social prejudice against disability and take a humane approach.
 
-<img src="./lee_jehwan_img.png.WEBP" alt="image depicting savant syndrome" style="width:30%;" />
+<img src="./lee_jehwan_img.png" alt="image depicting savant syndrome" style="width:30%;" />
 
 # 내 장례식에서 연주되었으면 좋겠는 음악
 [*Debussy-Rêverie*](https://youtu.be/QRjllL-MP0U?si=1cl64QulNgNcJmKn)
